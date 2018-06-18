@@ -45,3 +45,10 @@ Boat Problem, Project 1 PDF:
 >
 >You will reach a point in your simulation where the adult and child threads
 >believe that everyone is across on Molokai."
+
+## Tools
+
+<ul>
+  <li>C++ 11, in which the prototype was written, using the standard library's thread class - std::thread.</li>
+  <li>(optional) g++ compiler, to use the provided makefile.</li>
+</ul>
